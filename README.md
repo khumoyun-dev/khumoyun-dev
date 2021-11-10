@@ -26,13 +26,13 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://mongoosejs.com/" target="_blank"> <img src="https://www.tidelift.com/hubfs/mogoose-logo.png" alt="mongodb" width="48" height="48"/> </a>
-    <a href="http://sequelize.org/" target="_blank"> <img src="https://sequelize.org/master/image/brand_logo.png"/> </a> 
+    <a href="http://sequelize.org/" target="_blank"> <img src="https://sequelize.org/master/image/brand_logo.png" alt="sequelize" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://mui.com/" target="_blank"> <img src="https://spin.atomicobject.com/wp-content/uploads/20180817202431/material-ui.png"/> </a> 
+    <a href="https://mui.com/" target="_blank"> <img src="https://spin.atomicobject.com/wp-content/uploads/20180817202431/material-ui.png" alt="material ui" width="48" height="48"/> </a> 
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="48" height="48"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
@@ -42,15 +42,15 @@
 
 <p align="center">
     <a href="https://github.com/Khumoyun13/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khumoyun Mirzaev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khumoyun Mirzaev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Khumoyun13&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Khumoyun13/github-readme-stats"><img alt="Khumoyun Mirzaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KhumoyunMirzaev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Khumoyun13/github-readme-stats"><img alt="Khumoyun Mirzaev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhumoyunMirzaev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Khumoyun13/github-readme-stats"><img alt="Khumoyun Mirzaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khumoyun13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Khumoyun13/github-readme-stats"><img alt="Khumoyun Mirzaev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khumoyun13&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Khumoyun13/github-readme-activity-graph"><img alt="Khumoyun Mirzaev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Khumoyun13/github-readme-activity-graph"><img alt="Khumoyun Mirzaev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Khumoyun13&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
