@@ -69,7 +69,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="left" justify="center">
 
 <a style="margin-right: 15px;" href = "https://www.t.me/khumoyun_mirzaev"><img src="https://friconix.com/png/fi-snsuxx-telegram.png" width="40" height="40"/></a>
 <a href = "https://www.linkedin.com/in/khumoyun-mirzaev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48" height="48" /></a>
