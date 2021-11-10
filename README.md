@@ -29,7 +29,7 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://mongoosejs.com/" target="_blank"> <img src="https://www.tidelift.com/hubfs/mogoose-logo.png" alt="mongodb" width="50" height="55"/> </a>
+    <a href="https://mongoosejs.com/" target="_blank"> <img src="https://www.tidelift.com/hubfs/mogoose-logo.png" alt="mongodb" width="50" height="60"/> </a>
     <a href="http://sequelize.org/" target="_blank"> <img src="https://sequelize.org/master/image/brand_logo.png" alt="sequelize" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
     <a href="https://mui.com/" target="_blank"> <img src="https://spin.atomicobject.com/wp-content/uploads/20180817202431/material-ui.png" alt="material ui" width="48" height="40"/> </a> 
