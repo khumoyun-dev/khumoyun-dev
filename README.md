@@ -69,9 +69,9 @@
 <br/>
 
 ## Connect with me:
-<p align="left" style="display: flex; justify-content: center;">
+<p align="left">
 
-<a href = "https://www.t.me/khumoyun_mirzaev"><img src="https://friconix.com/png/fi-snsuxx-telegram.png" width="40" height="40"/></a>
+<a href = "https://www.t.me/khumoyun_mirzaev"><img src="https://friconix.com/png/fi-snsuxx-telegram.png" width="42" height="42"/></a>
 <a href = "https://www.linkedin.com/in/khumoyun-mirzaev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48" height="48" /></a>
 <a href = "https://twitter.com/khumoyun_m"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="48" height="48" /></a>
 <a href = "https://www.instagram.com/khumoyun_mirzaev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="48" height="48" /></a>
@@ -83,4 +83,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Khumoyun13">
 </a>
-<a href="https://github.com/Khumoyun13?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Khumoyun13?tab=followers"><img src="https://img.shields.io/github/followers/Khumoyun13?label=Followers&style=social" alt="GitHub Badge"></a>
