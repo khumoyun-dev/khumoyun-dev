@@ -27,14 +27,19 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://mongoosejs.com/" target="_blank"> <img src="https://www.tidelift.com/hubfs/mogoose-logo.png" alt="mongodb" width="48" height="48"/> </a>
+    <a href="https://mongoosejs.com/" target="_blank"> <img src="https://www.tidelift.com/hubfs/mogoose-logo.png" alt="mongodb" width="50" height="55"/> </a>
     <a href="http://sequelize.org/" target="_blank"> <img src="https://sequelize.org/master/image/brand_logo.png" alt="sequelize" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://mui.com/" target="_blank"> <img src="https://spin.atomicobject.com/wp-content/uploads/20180817202431/material-ui.png" alt="material ui" width="48" height="48"/> </a> 
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="48" height="48"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.karlsjohnson.com/link/images/vscode.png" alt="vscode" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://logonoid.com/images/webstorm-logo.png" alt="webstorm" width="40" height="40"/> </a>
+    <a href="https://www.github.com/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" alt="github" width="40" height="40"/> </a>
+    <a href="https://www.heroku.com/" target="_blank"> <img src="https://crossbrowsertesting.com/crossbrowsertesting/media/images/logos/heroku-logo.png" alt="heroku" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://maxcdn.icons8.com/Share/icon/Operating_Systems/linux1600.png" alt="linux" width="40" height="40"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
