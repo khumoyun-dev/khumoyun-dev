@@ -71,7 +71,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.t.me/khumoyun_mirzaev"><img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-2048x2048.png" width="48" height="48"/></a>
+<a href = "https://www.t.me/khumoyun_mirzaev"><img src="https://pnggrid.com/wp-content/uploads/2021/04/Telegram-App-Logo-PNG-1536x1272.png" width="48" height="48"/></a>
 <a href = "https://www.linkedin.com/in/khumoyun-mirzaev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48" height="48" /></a>
 <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="48" height="48" /></a>
 <a href = "https://www.instagram.com/khumoyun_mirzaev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="48" height="48" /></a>
