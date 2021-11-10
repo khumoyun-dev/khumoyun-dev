@@ -71,7 +71,7 @@
 ## Connect with me:
 <p align="left">
 
-<a style="margin-right: 8px" href = "https://www.t.me/khumoyun_mirzaev"><img src="https://image.flaticon.com/icons/png/512/2111/2111644.png" width="40" height="43"/></a>
+<a style="margin-right: 15px;" href = "https://www.t.me/khumoyun_mirzaev"><img src="https://image.flaticon.com/icons/png/512/2111/2111644.png" width="43" height="43"/></a>
 <a href = "https://www.linkedin.com/in/khumoyun-mirzaev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48" height="48" /></a>
 <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="48" height="48" /></a>
 <a href = "https://www.instagram.com/khumoyun_mirzaev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="48" height="48" /></a>
