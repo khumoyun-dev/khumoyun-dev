@@ -1,6 +1,8 @@
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Khumoyun Mirzaev</h1>
+<h3>Full stack developer in Uzbekistan</h3>
 
-<h3>Full stack web developer in Uzbekistan  </h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khumoyun</h1>
 
 <p>
     <a href="https://github.com/khumoyun13">
@@ -48,3 +50,9 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
 <br>
+
+## ❤️ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Khumoyun13">
+</a>
+<a href="https://github.com/Khumoyun13?tab=followers"><img src="https://img.shields.io/github/followers/Khumoyun13?label=Followers&style=social" alt="GitHub Badge"></a>
