@@ -42,9 +42,9 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khumoyun13&langs_count=8)](https://github.com/Khumoyun13/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khumoyun13&langs_count=8)](https://github.com/Khumoyun13/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khumoyun13&show_icons=true)       
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khumoyun13&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khumoyun13&show_icons=true)     
+
 
 
 
