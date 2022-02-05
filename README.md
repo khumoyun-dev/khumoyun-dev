@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://github.com/khumoyun13">
-        <img alt="Follow Khumoyun Mirzaev" src="https://img.shields.io/static/v1?label=Follow&message=IlhomMusayev&style=for-the-badge&color=4A90E2&labelColor=222222" />
+        <img alt="Follow Khumoyun Mirzaev" src="https://img.shields.io/static/v1?label=Follow&message=Khumoyun13&style=for-the-badge&color=4A90E2&labelColor=222222" />
 
 </p>
     
