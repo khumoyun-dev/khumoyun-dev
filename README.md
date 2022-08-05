@@ -43,6 +43,8 @@
   📫 How to reach me: <a href="mailto: mirzayevhumoyun5plus@gmail.com">mirzayevhumoyun5plus@gmail.com</a>
 </p>
 
+<hr>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
