@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<p align="center">
+<p align="center" margin-top="5">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -24,10 +24,10 @@
 <hr>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/khumoyun-mirzaev/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://www.instagram.com/khumoyun_mirzaev/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
- <a href="https://t.me/khumoyun_mirzaev/" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
- <a href="https://twitter.com/khumoyun_dev" title="Twitter Profile"><img width="80" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/khumoyun-mirzaev/" title="LinkedIn Profile"><img width="80" height="20" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/khumoyun_mirzaev/" title="TG Profile"><img width="80" height="20" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="https://www.instagram.com/khumoyun_mirzaev/" title="Insta Profile"><img width="90" height="20" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+ <a href="https://twitter.com/khumoyun_dev" title="Twitter Profile"><img width="80" height="20" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </h5>
 <br>
 <p align="center">
