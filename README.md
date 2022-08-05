@@ -30,15 +30,13 @@
  <a href="https://twitter.com/khumoyun_dev" title="Twitter Profile"><img width="80" height="20" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Khumoyun, Frontend Web Developer from Uzbekistan
+<p>
+  Hi, I'm <b>Khumoyun</b>, Frontend Web Developer from Uzbekistan
   <br>
   <br>
   🔬 I'm currently studying at INHA university in Tashkent
   <br>
   💻 I love writing code and learn new things
-  <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/mabrur_dev">t.me/mabrur_dev</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/khumoyun-dev/khumoyun-dev/issues" title="Issues">Here</a>
   <br>
