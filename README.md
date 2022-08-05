@@ -57,7 +57,6 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khumoyun-dev&langs_count=8)](https://github.com/khumoyun-dev/github-readme-stats) 
-    </a>
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=khumoyun-dev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
