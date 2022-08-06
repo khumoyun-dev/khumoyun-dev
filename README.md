@@ -28,27 +28,22 @@
 
 <hr>
 
+<h3 align="center">Frontend developer from Uzbekistan</h3>
 
-<br>
-<p>
-  Hi, I'm <b>Khumoyun</b>, Frontend Web Developer from Uzbekistan
-  <br>
-  <br>
-  🔬 I'm currently studying at INHA university in Tashkent
-  <br>
-  💻 I love writing code and learn new things
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/khumoyun-dev/khumoyun-dev/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: mirzayevhumoyun5plus@gmail.com">mirzayevhumoyun5plus@gmail.com</a>
-</p>
+- 🔭 I'm currently studying at **INHA** university in Tashkent
+
+- 💻 I love writing code and learn new things
+
+- 💬 Ask me anything about from <a href="https://github.com/khumoyun-dev/khumoyun-dev/issues" title="Issues">Here</a>
+
+- 📫 How to reach me **mirzayevhumoyun5plus@gmail.com**
 
 <hr>
 
 <p align="center">
 <a href="https://linkedin.com/in/khumoyun-mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khumoyun-mirzaev" height="30" width="40" /></a>
-<a href="https://twitter.com/khumoyun_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khumoyun_dev" height="30" width="40" /></a>
-<a href="https://instagram.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://nasdac-cryptocoin.com/wp-content/uploads/2021/12/Telegram-Logo.png" alt="khumoyun_mirzaev" height="30" width="40" /></a>
+<a href="https://twitter.com/khumoyun_dev" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://cdn.shopify.com/s/files/1/0122/7263/1872/files/Twitter.png?v=1585305053)" alt="khumoyun_dev" height="30" width="40" /></a>
+<a href="https://t.me/khumoyun_mirzaev" target="blank"><img align="center" src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/11/08/2785118359.png" alt="khumoyun_mirzaev" height="30" width="40" /></a>
 <a href="https://instagram.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khumoyun_mirzaev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15696879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15696879" height="30" width="40" /></a>
 <a href="https://medium.com/@khumoyun_mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khumoyun_mirzaev" height="30" width="40" /></a>
