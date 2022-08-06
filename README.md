@@ -40,15 +40,17 @@
 
 <hr>
 
-<p align="center">
-<a href="https://linkedin.com/in/khumoyun-mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khumoyun-mirzaev" height="30" width="40" /></a>
-<a href="https://twitter.com/khumoyun_dev" target="blank"><img align="center" src="https://cdn.shopify.com/s/files/1/0122/7263/1872/files/Twitter.png?v=1585305053" alt="khumoyun_dev" height="30" width="40" /></a>
-<a href="https://t.me/khumoyun_mirzaev" target="blank"><img align="center" src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/11/08/2785118359.png" alt="khumoyun_mirzaev" height="30" width="40" /></a>
-<a href="https://instagram.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khumoyun_mirzaev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15696879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15696879" height="30" width="40" /></a>
-<a href="https://medium.com/@khumoyun_mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khumoyun_mirzaev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khumoyun_mirzaev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khumoyun_mirzaev" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/khumoyun_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="khumoyun" height="30" width="40" /></a>
+ <a href="https://t.me/khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="khumoyun" height="30" width="40" /></a>
+<a href="https://twitter.com/khumoyun_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khumoyun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khumoyun-mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khumoyun" height="30" width="40" /></a>
+<a href="https://instagram.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khumoyun" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15696879" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15696879" height="30" width="40" /></a>
+<a href="https://medium.com/@khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@khumoyun_mirzaev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="khumoyun_mirzaev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="khumoyun_mirzaev" height="30" width="40" /></a>
 </p>
 
 <hr>
