@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/khumoyun-mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khumoyun-mirzaev" height="30" width="40" /></a>
-<a href="https://twitter.com/khumoyun_dev" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://cdn.shopify.com/s/files/1/0122/7263/1872/files/Twitter.png?v=1585305053)" alt="khumoyun_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/khumoyun_dev" target="blank"><img align="center" src="https://cdn.shopify.com/s/files/1/0122/7263/1872/files/Twitter.png?v=1585305053" alt="khumoyun_dev" height="30" width="40" /></a>
 <a href="https://t.me/khumoyun_mirzaev" target="blank"><img align="center" src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/11/08/2785118359.png" alt="khumoyun_mirzaev" height="30" width="40" /></a>
 <a href="https://instagram.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khumoyun_mirzaev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15696879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15696879" height="30" width="40" /></a>
