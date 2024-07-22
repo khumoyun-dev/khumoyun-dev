@@ -30,23 +30,23 @@
 
 <h3 align="center">Frontend developer from Uzbekistan</h3>
 
-- 🔭 I'm currently studying at **INHA** university in Tashkent
+- 🔭 Graduate of **INHA** university in Tashkent
 
 - 💻 I love writing code and learn new things
 
 - 💬 Ask me anything about from <a href="https://github.com/khumoyun-dev/khumoyun-dev/issues" title="Issues">Here</a>
 
-- 📫 How to reach me **mirzayevhumoyun5plus@gmail.com**
+- 📫 How to reach me **mirzaevkhumoyun@gmail.com**
 
 <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/khumoyun_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="khumoyun" height="30" width="40" /></a>
- <a href="https://t.me/khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="khumoyun" height="30" width="40" /></a>
+ <a href="https://t.me/khumoyun_mirzayev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="khumoyun" height="30" width="40" /></a>
 <a href="https://twitter.com/khumoyun_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khumoyun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khumoyun-mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khumoyun" height="30" width="40" /></a>
-<a href="https://instagram.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khumoyun" height="30" width="40" /></a>
+<a href="https://instagram.com/khumoyun.mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khumoyun" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15696879" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15696879" height="30" width="40" /></a>
 <a href="https://medium.com/@khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@khumoyun_mirzaev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khumoyun_mirzaev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="khumoyun_mirzaev" height="30" width="40" /></a>
